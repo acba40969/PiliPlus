@@ -1232,8 +1232,8 @@ packages:
     description:
       path: media_kit_video
       ref: native
-      resolved-ref: fd8421d21eade4d6d12de137fa7df902fec20292
-      url: "https://github.com/bggRGjQaUbCoE/media-kit.git"
+      resolved-ref: d4e7b3ddaf1b3c7b8e8351bd7cf9844cffd6e91c
+      url: "https://github.com/acba40969/media-kit.git"
     source: git
     version: "1.2.5"
   menu_base:
